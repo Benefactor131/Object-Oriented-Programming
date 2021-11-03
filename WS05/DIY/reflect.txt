@@ -1,0 +1,9 @@
+Student Name: Bair Suimaliev
+Student ID: 159350198
+Student Email: bsuimaliev@myseneca.ca
+
+During workshop 5 I learned how the type conversion operators, binary member operators, unary member operators and helper binary operators work and how to declare them. The operator functions change the properties of operations with specific type of arguments.
+
+For the binary member functions, we pass one parameter which will be the right operand, and the left operand will be the current object. The example of it is the assignment operator functions in the workshop. The next one is a type conversion operator function. This type of function gives the instructions what to do when the specific type of a variable is casted to the type of the function. For example, casting a class into double for returning a double value.
+
+The next two functions are unary member operator and helper binary operator. The unary member operator function has only one operand and one operator. The only operand is the left operand that represents current object, this means no parameters are passed to the function. And the last one is the helper binary operator function which is declared globally and does not affect its operand. This function accepts two parameters, first one as a left operand and the second one as a right operand.
