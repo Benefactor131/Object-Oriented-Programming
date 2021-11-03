@@ -1,0 +1,9 @@
+Student Name: Bair Suimaliev
+Student ID: 159350198
+Student Email: bsuimaliev@myseneca.ca
+
+During the workshop 7 I learned what are derived classes and base classes, how a derived class inherits all the members of a base class, and all the normal member functions. However, a constructor, a destructor, and assignment operators are not inherited by a child class.
+
+The next concept learned in this workshop is the shadowing of the member functions. The shadowing of the classes implies that the function of a base class can be shadowed by another member function of a derived class with the identical identifier. Still the shadowed function of a base class can be accessed by a scope resolution, i.e., specifying the class name with the double colon following afterwards. 
+
+In this workshop, the process of inputting and outputting operators can be optimized by calling the already implemented function of the base class MotorVehicle inside of the functions of the Truck class with some additions. The call of the base class functions can be performed in the way mentioned above with the help of scope resolution. 
