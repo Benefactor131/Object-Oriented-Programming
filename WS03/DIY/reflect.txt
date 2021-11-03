@@ -1,0 +1,7 @@
+Student Name: Bair Suimaliev
+Student ID: 159350198
+Student Email: bsuimaliev@myseneca.ca
+
+This workshop was focused on working with classes and the privacy of its members. So, during the workshop I found out how to define a class with the members, and how to set different level of privacy for them. Unlike structures, where the members are set to public, classes’ members are set to private level by default. That means the members of a class object cannot be accessed directly outside of the class. Therefore, to access private data of a class we use public members like functions.
+
+Also, while completing this workshop I learned and practiced in using the cout member functions to format the output printed to the screen. In this workshop, I utilized all the five functions given in the course notes this week. First is width, the function to set the minimum width of a field. The second is fill, this function fills the blank characters in the field set by the width function with the specified characters. Third is setf function, which sets the formatting of the string, for example in this workshop I have set left and right justification for the strings. The next function is unsetf, which unsets the formatting of the previous command. And the last function is precision, the function to set how many digits to print after decimal point.
