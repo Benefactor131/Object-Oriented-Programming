@@ -1,0 +1,7 @@
+Student Name: Bair Suimaliev
+Student ID: 159350198
+Student Email: bsuimaliev@myseneca.ca
+
+During workshop 6 I learned about copy constructors, constructors for copy operation, where the new file is created and accepts the values of the copied file. Another function for copying is copy assignment, the function for assigning the values of existing file to an another already existing file. And in combination of a destructor, it is called the rule of three that claims that if one of these had to be defined by the programmer, it means that the compiler-generated version does not fit the needs of the class in one case, and it will probably not fit in the other cases either. Also, I found out how to prevent copying and assignment in a class. There are different ways to implement prevention of copying, but the optimal way is to use keyword ‘delete’ in the function declaration.
+
+In addition, the workshop 6 gave me the opportunity to work with the files. The file integration into a C++ program implies such operations as reading from a file and writing to a file with the help of ofstream class for writing, and ifstream class for reading. Another aspect of the workshop I was practicing with is the insertion and extraction operators to read and print the class. For this purpose, we use istream and ostream classes with its methods to detect input errors and the end of input data, and to format an output. Furthermore, to get the data with unknown length I used string class to extract the data, and then the stod() method to convert it to a double class.
