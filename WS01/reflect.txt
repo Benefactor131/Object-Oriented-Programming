@@ -1,0 +1,11 @@
+Student Name: Bair Suimaliev
+Student Email: bsuimaliev@myseneca.ca
+Student ID: 159350198
+
+In the first workshop of the OOP course, I practiced in modular programming, where the source code is distributed in various files. The modular programming is utilized for code consistency and clarity. It is much more convenient to read and understand the code when it is organized. Also, it easier to work in such a way when working in a group, since everyone can deliberate on their own part, and everything is not piled up, so it will be easy-to-read. 
+
+Basically, there are two types of files: header and implementation files. First are used to declare functions prototypes and variables like structures, so that they can be used not only in one file, but throughout all the files in the solution, where the header file is included. And the second one is a type of file where those function declared in a header are defined.
+
+In addition, during this workshop I learned about compilation safeguards which is a regular practice for a programmer to include it in a header file to avoid compilation issues related with linking files. What is more, I found out how to create namespaces and how to use them in the program. 
+
+The most difficult part of the workshop I find the DIY portion of the workshop, specifically the implementation of strStr function for which I spent extra time to think and define it. So, for defining this function I used recursive implementation. It means that the function is used in the function itself to make it work. I learned about this approach while doing the assginment 2 in the IPC144 course. 
