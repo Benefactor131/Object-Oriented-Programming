@@ -1,0 +1,11 @@
+Student Name: Bair Suimaliev
+Student ID: 159350198
+Student Email: bsuimaliev@myseneca.ca
+
+During the workshop 8 I figured out what is the pure virtual functions and how to define them. Basically, the pure virtual functions do not require any implementations, they just need access to the signatures.
+
+Another concept learned in this workshop is the creation of abstract base classes. Abstract base class has no implementations for its pure virtual functions, and usually it is just a pure interface with no member variables.
+
+The next concept is implementing of virtual functions. Virtual function is a member function that is declared in a base class and then is redefined in a derived class. The virtual function is declared in the base class.
+
+In addition, I learned what is the distinction between an abstract base class and a concrete class. An abstract base class is an interface, the declaration of the functions, while a concrete class implements the interface, defines the functions of the base class.  
