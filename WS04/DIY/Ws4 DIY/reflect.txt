@@ -1,0 +1,11 @@
+Student Name: Bair Suimaliev
+Student ID: 159350198
+Student Email: bsuimaliev@myseneca.ca
+
+During the workshop 4 I learned about constructors and destructors. Constructors are member functions initialize the values of the variable when they are created. These constructors can have different default values to initialize, depending on the arguments passed to it. But the default constructor is that has no arguments passed to it, and assigns values based on accessible information. 
+
+Destructors are special member functions that are needed to deallocate dynamic memory of an object to prevent memory leaks and avoid heap corruption. So before going out of scope they are flushing file’s buffer from the data of an object.
+
+While completing this workshop I figured out how to declare them, constructors, and destructors. Basically, they take the name of a class with one difference, destructor has a tilde in front of the class name.
+
+Another concept learned by me in the workshop 4 is a reference of a current object. To refer to the current object ‘this’ keyword is used for it. Usually, it is not needed to include ‘this’ keyword, however if a variable has been overridden in the same scope it should be used.
